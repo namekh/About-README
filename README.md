@@ -54,7 +54,7 @@ Our mission is to empower developers, startups, and enterprises with world-class
 
 ## 📫 Contact Us
 
-📧 **Email:** support@namekhhosting.com  
+📧 **Email:** support@namekh.com  
 🌍 **Website:** [www.namekh.com](https://www.namekh.com)  
 💬 **Live Chat:** Available 24/7 on our website  
 
