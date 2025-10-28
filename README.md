@@ -48,7 +48,7 @@ Our mission is to empower developers, startups, and enterprises with world-class
 
 ## 📊 GitHub Stats (Optional if you connect your org)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namekhhosting&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=namekh&show_icons=true&theme=tokyonight)
 
 ---
 
